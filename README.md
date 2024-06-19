@@ -11,8 +11,8 @@ Este projeto é parte do curso de desenvolvimento web e consiste na criação de
 - Lista de Notícias Recentes: Títulos das notícias mais recentes publicadas.
  
 ## Tecnologias Utilizadas
-HTML: Estruturação do conteúdo do site, utilizando elementos semânticos para melhorar a acessibilidade e SEO.
-CSS3 Intermediário: Estilização do site, focando em layouts, design moderno e técnicas avançadas de CSS.
+- HTML: Estruturação do conteúdo do site, utilizando elementos semânticos para melhorar a acessibilidade e SEO.
+- CSS3 Intermediário: Estilização do site, focando em layouts, design moderno e técnicas avançadas de CSS.
 
 ## Preview
 
